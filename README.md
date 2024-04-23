@@ -32,7 +32,7 @@ I completed the project by following these key steps:
    - Set up a hosted zone in Amazon Route 53 for my custom domain.
 2. ### Amazon Lightsail Setup:
    - Created an Amazon Lightsail instance with the WordPress blueprint.
-     Selected the "$3.50/month" plan for cost-effectiveness.
+   - Selected the "$3.50/month" plan for cost-effectiveness.
    - Configured the Lightsail instance with the necessary settings.
 3. ### WordPress Installation and Configuration:
    - Accessed the WordPress dashboard setup wizard through the Lightsail instance.
